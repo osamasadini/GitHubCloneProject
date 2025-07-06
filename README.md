@@ -1,1 +1,3 @@
-This is the description of my repo
+## Git Merge Conflict Practice
+
+This task involves creating branches and resolving merge conflicts.
